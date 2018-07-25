@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{66C6CF6E-0C9B-4814-AC39-764325AFB707}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Contact/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
